@@ -1,1 +1,2 @@
 Der GitHub-Schreibtest war erfolgreich.
+Auch das Ändern einer vorhandenen Datei funktioniert.
